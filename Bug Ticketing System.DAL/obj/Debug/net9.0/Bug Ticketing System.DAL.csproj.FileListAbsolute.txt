@@ -1,0 +1,28 @@
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\bin\Debug\net9.0\Bug Ticketing System.DAL.deps.json
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\bin\Debug\net9.0\Bug Ticketing System.DAL.runtimeconfig.json
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\bin\Debug\net9.0\Bug Ticketing System.DAL.dll
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\bin\Debug\net9.0\Bug Ticketing System.DAL.pdb
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.AssemblyInfo.cs
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.dll
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\refint\Bug Ticketing System.DAL.dll
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.pdb
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.genruntimeconfig.cache
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\ref\Bug Ticketing System.DAL.dll
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\bin\Debug\net9.0\Bug Ticketing System.DAL.deps.json
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\bin\Debug\net9.0\Bug Ticketing System.DAL.runtimeconfig.json
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\bin\Debug\net9.0\Bug Ticketing System.DAL.dll
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\bin\Debug\net9.0\Bug Ticketing System.DAL.pdb
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.dll
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\refint\Bug Ticketing System.DAL.dll
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.pdb
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\Bug Ticketing System.DAL.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.DAL\obj\Debug\net9.0\ref\Bug Ticketing System.DAL.dll

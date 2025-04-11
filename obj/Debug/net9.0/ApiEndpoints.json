@@ -1,0 +1,218 @@
+[
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Bugs.BugController",
+    "Method": "AddAsync",
+    "RelativePath": "api/bugs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bugDto",
+        "Type": "Bug_Ticketing_System.BL.DTOs.BugDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Bugs.BugController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/bugs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Bug_Users.BugUserController",
+    "Method": "AddAsync",
+    "RelativePath": "api/bugs/{bugId}/assignees/{userId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bugId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Bug_Users.BugUserController",
+    "Method": "RemoveAsync",
+    "RelativePath": "api/bugs/{bugId}/assignees/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bugId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Attachments.AttachmentController",
+    "Method": "AddAsync",
+    "RelativePath": "api/bugs/{bugId}/attachments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bugId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "attachmentDto",
+        "Type": "Bug_Ticketing_System.BL.DTOs.AttachmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Attachments.AttachmentController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/bugs/{bugId}/attachments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bugId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Attachments.AttachmentController",
+    "Method": "removeAsync",
+    "RelativePath": "api/bugs/{bugId}/attachments/{attachmentId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bugId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "attachmentId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Bugs.BugController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/bugs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Projects.ProjectController",
+    "Method": "AddAsync",
+    "RelativePath": "api/projects",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectDto",
+        "Type": "Bug_Ticketing_System.BL.DTOs.ProjectDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Projects.ProjectController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/projects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.Projects.ProjectController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/projects/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "Bug_Ticketing_System.BL.DTOs.User.LoginCredentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bug_Ticketing_System.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/users/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "Bug_Ticketing_System.BL.DTOs.User.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

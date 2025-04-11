@@ -1,0 +1,30 @@
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.BL.deps.json
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.BL.dll
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.BL.pdb
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.DAL.dll
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.DAL.pdb
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.AssemblyInfo.cs
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Tick.D09F2EF8.Up2Date
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.dll
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\refint\Bug Ticketing System.BL.dll
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.pdb
+C:\Users\PC\source\repos\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\ref\Bug Ticketing System.BL.dll
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.BL.deps.json
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.BL.dll
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.BL.pdb
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.DAL.dll
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\bin\Debug\net9.0\Bug Ticketing System.DAL.pdb
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Tick.D09F2EF8.Up2Date
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.dll
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\refint\Bug Ticketing System.BL.dll
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\Bug Ticketing System.BL.pdb
+C:\Users\DELL\Downloads\Bug Ticketing System_\Bug Ticketing System\Bug Ticketing System.BL\obj\Debug\net9.0\ref\Bug Ticketing System.BL.dll
